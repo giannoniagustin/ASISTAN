@@ -2,7 +2,7 @@ package archivos;
 
 import android.text.format.DateFormat;
 
-import java.text.SimpleDateFormat;
+import java.io.File;
 import java.util.Calendar;
 import java.util.Date;
 
@@ -32,9 +32,21 @@ public class ManangerArchivos
     public final static String EXTENSION_TXT =".txt" ;
     public final static String SALTO_LINEA="\r\n";
 
+    public File crearArchivo(String path)
+    {
+        return new File(path);
+    }
+    public void listarArchivosCarpeta(String paht)
+    {
+        File dir= new File(paht);
+
+        dir.list();
+
+    }
+
     public  Archivo crearArchivo(String path, String nombre)
     {
-        return new Archivo(path,nombre);
+            return new Archivo(path,nombre,this);
     }
     public void crearArchivoTrack()
     {
@@ -51,7 +63,6 @@ public class ManangerArchivos
     }
     public  void grabarArchivoTrack(Evento evento)
     {
-
      int resultado=  Fecha.FORMATO_FECHA.format(evento.getFecha()).compareTo(Fecha.FORMATO_FECHA.format(Calendar.getInstance().getTime()));
         if (resultado==0)
         {
@@ -65,4 +76,5 @@ public class ManangerArchivos
             this.grabarArchivoTrack(evento);
         }
     }
+
 }

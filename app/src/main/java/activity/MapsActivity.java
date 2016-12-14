@@ -21,6 +21,7 @@ import com.google.android.gms.maps.model.MarkerOptions;
 import archivos.Log;
 import giannno.asistan.R;
 import google.ubicacion.CapaServicio;
+import util.Mensajes;
 
 public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
 {
@@ -111,7 +112,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     }
     private void setUpMap()
     {
-        mMap.addMarker(new MarkerOptions().position(latLng).title("Usted está aquí"));
+        mMap.addMarker(new MarkerOptions().position(latLng).title(Mensajes.ESTA_AQUI));
         mMap.moveCamera(CameraUpdateFactory.newLatLng(latLng));
         /*try {
 

@@ -13,19 +13,19 @@ import java.util.zip.ZipOutputStream;
 /**
  * Created by Agustín on 24/09/2015.
  */
-public class Archivo
+public class Archivo extends ElmentoCarpeta
 {
-    String nombre;
-    String path;
+
     File archivo;
     File dir;
     FileOutputStream fOutputStream;
     ZipOutputStream zos;
     ZipEntry ze;
-    public Archivo(String path,String nombre )
+    public Archivo(String path, String nombre, ManangerArchivos manangerArchivos)
     {
             this.nombre = nombre;
             this.path = path;
+            this.manangerArchivos=manangerArchivos;
             dir = new File(path);
             dir.mkdirs();
             archivo = new File(dir, nombre+ManangerArchivos.EXTENSION_TXT);
