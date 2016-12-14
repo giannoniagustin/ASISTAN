@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ASISTAN</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="actividad_auto">Auto</string>
+    <string name="actividad_caminando">Caminando</string>
+    <string name="actividad_caminando_rapido">Caminando rápido</string>
+    <string name="actividad_bicileta">Bicicleta</string>
+    <string name="actividad_corriendo">Corriendo</string>
+    <string name="actividad_detenido">Detenido</string>
+    <string name="actividad_tomando_dispositivo">Tomando dispositivo</string>
+    <string name="actividad_desconocida">Desconocida</string>
+</resources>
