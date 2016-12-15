@@ -9,4 +9,6 @@ public abstract class ElmentoCarpeta
     String nombre;
     String path;
     ManangerArchivos manangerArchivos;
+
+    public abstract void comprimir();
 }
