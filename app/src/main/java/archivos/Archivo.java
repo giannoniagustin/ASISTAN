@@ -16,7 +16,7 @@ import java.util.zip.ZipOutputStream;
 public class Archivo extends ElmentoCarpeta
 {
 
-    File archivo;
+ /*   File archivo;
     File dir;
     FileOutputStream fOutputStream;
     ZipOutputStream zos;
@@ -28,7 +28,7 @@ public class Archivo extends ElmentoCarpeta
             this.manangerArchivos=manangerArchivos;
             dir = new File(path);
             dir.mkdirs();
-            archivo = new File(dir, nombre+ManangerArchivos.EXTENSION_TXT);
+            archivo = new File(dir, nombre+ManangerArchivos.EXTENSION_TXT);//Extension del archivo ponerla en el nombre del archivo
     }
 
     public void grabar(String s)
@@ -79,6 +79,42 @@ public class Archivo extends ElmentoCarpeta
     public void borrarTxt()
     {
     archivo.delete();
+    }
+    */
+    File archivo;
+    File dir;
+    FileOutputStream fOutputStream;
+
+    public Archivo(String path, String nombre, ManangerArchivos manangerArchivos)
+    {
+        this.nombre = nombre;
+        this.path = path;
+        this.manangerArchivos=manangerArchivos;
+        dir = new File(path);
+        dir.mkdirs();
+        archivo = new File(dir, nombre+ManangerArchivos.EXTENSION_TXT);//Extension del archivo ponerla en el nombre del archivo
+    }
+
+    public void grabar(String s)
+    {
+        try {
+            fOutputStream = new FileOutputStream(archivo,true);
+            fOutputStream.write(s.getBytes(Charset.forName("UTF-8")));
+            fOutputStream.flush();
+            fOutputStream.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public void borrarTxt()
+    {
+        archivo.delete();
+    }
+
+    @Override
+    public void comprimir() {
+
     }
 }
 

@@ -5,6 +5,7 @@ import android.text.format.DateFormat;
 import java.io.File;
 import java.util.Calendar;
 import java.util.Date;
+import java.util.Vector;
 
 import baseDatos.BdHelper;
 import core.Evento;
@@ -42,6 +43,7 @@ public class ManangerArchivos
 
         dir.list();
 
+
     }
 
     public  Archivo crearArchivo(String path, String nombre)
@@ -75,6 +77,26 @@ public class ManangerArchivos
             this.crearArchivoTrack();
             this.grabarArchivoTrack(evento);
         }
+    }
+    public void crearEstructura()
+    {
+        try {
+
+            Carpeta raiz = new Carpeta(new Vector<ElmentoCarpeta>());
+            raiz.crearEstructura(RAIZ_APP);
+        }
+        catch (Exception e)
+        {
+            Log.LOGGER.severe(e.toString());
+        }
+
+    }
+    public void comprimirArchivos()
+    {
+        //Crea un archivo ZIP
+
+
+
     }
 
 }

@@ -171,6 +171,7 @@ public class ServicioTracker extends Service implements LocationListener, Google
         try {
             manangerArchivos= new ManangerArchivos();
             manangerArchivos.crearArchivoTrack();
+            manangerArchivos.crearEstructura();
             nombreActividad= getString(R.string.actividad_desconocida);
             ultimasUbicaciones = new Vector<>();
             mGoogleApiClient = new GoogleApiClient.Builder(this)
