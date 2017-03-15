@@ -3,7 +3,7 @@ apply plugin: 'com.neenbedankt.android-apt'
 apply from: '../library/quality/quality.gradle'
 
 android {
-    compileSdkVersion 24
+    compileSdkVersion 25
     buildToolsVersion '25.0.0'
     defaultConfig {
         applicationId "giannno.asistan"
@@ -29,12 +29,16 @@ dependencies {
     androidTestCompile('com.android.support.test.espresso:espresso-core:2.2.2', {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
-   compile 'com.android.support:appcompat-v7:24.2.1'
-    compile 'com.google.android.gms:play-services:10.0.1'
+   //compile 'com.android.support:appcompat-v7:24'
+  //compile "com.android.support:appcompat-v7:$supportLibraryVersion"
+    compile 'com.google.android.gms:play-services:10.2.0'
+   /* compile 'com.google.android.gms:play-services-location:10.2.0'
+    compile 'com.google.android.gms:play-services-maps:10.2.0'*/
+
     compile 'com.google.firebase:firebase-auth:10.0.1'
     testCompile 'junit:junit:4.12'
     compile project(path: ':auth')
-    compile "com.android.support:design:$supportLibraryVersion"
+  //  compile "com.android.support:design:$supportLibraryVersion"
     compile 'com.jakewharton:butterknife:8.5.1'
     apt 'com.jakewharton:butterknife-compiler:8.5.1'
     debugCompile 'com.squareup.leakcanary:leakcanary-android:1.5'

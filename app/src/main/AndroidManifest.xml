@@ -62,7 +62,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
+        <activity
+            android:name="auth.SignedInActivity"
+            android:label="@string/name_auth_ui"/>
         <service
             android:name="google.ubicacion.ServicioTracker"
             android:enabled="true"

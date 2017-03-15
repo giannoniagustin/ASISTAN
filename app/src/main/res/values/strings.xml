@@ -10,7 +10,6 @@
     <string name="actividad_tomando_dispositivo">Tomando dispositivo</string>
     <string name="actividad_desconocida">Desconocida</string>
 
-
     <string name="name_chat">ChatActivity</string>
     <string name="name_auth_ui">Auth UI demo</string>
     <string name="name_image">Storage Image Demo</string>
@@ -21,24 +20,24 @@
 
     <!-- strings for Auth UI demo activities -->
     <eat-comment/>
-    <string name="launch_title">FirebaseUI Auth Demo</string>
-    <string name="sign_in">Start</string>
+    <string name="launch_title">AsisTan</string>
+    <string name="sign_in">Comenzar</string>
     <string name="green_theme">Green Theme</string>
     <string name="purple_theme">Purple Theme</string>
     <string name="dark_theme">Dark Theme</string>
-    <string name="use_theme_header">Use theme:</string>
+    <string name="use_theme_header">Tema:</string>
     <string name="logo_header">Logo:</string>
-    <string name="firebase_logo_label">Firebase Auth</string>
+    <string name="firebase_logo_label">AsisTan Login</string>
     <string name="google_logo_label">Google</string>
-    <string name="no_logo_label">None</string>
-    <string name="auth_providers_header">Use auth providers:</string>
+    <string name="no_logo_label">Ninguno</string>
+    <string name="auth_providers_header">Proveedor:</string>
     <string name="email_label">Email</string>
     <string name="facebook_label">Facebook</string>
-    <string name="facebook_label_missing_config">Facebook - configuration missing</string>
+    <string name="facebook_label_missing_config">Facebook - falta configurar</string>
     <string name="twitter_label">Twitter</string>
-    <string name="twitter_label_missing_config">Twitter - configuration missing</string>
+    <string name="twitter_label_missing_config">Twitter - falta configurar</string>
     <string name="google_label">Google</string>
-    <string name="google_label_missing_config">Google - configuration missing</string>
+    <string name="google_label_missing_config">Google - falta configurar</string>
     <string name="google_tos_label">Google TOS</string>
     <string name="firebase_tos_label">Firebase TOS</string>
     <string name="tos_header">Terms of Service URL:</string>
