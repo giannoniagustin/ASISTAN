@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

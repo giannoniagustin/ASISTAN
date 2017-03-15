@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\tw__accelerate_cubic.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\c8c30d9328729f931b96829f01243e30046276e2\\output\\res\\anim\\tw__accelerate_cubic.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\tw__slide_out.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\c8c30d9328729f931b96829f01243e30046276e2\\output\\res\\anim\\tw__slide_out.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_right.xml",
+        "source": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_exit.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\design_snackbar_out.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\6cb0247a0fbce0675e74d5cfb52b2d86ac650d4f\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\6cb0247a0fbce0675e74d5cfb52b2d86ac650d4f\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\design_fab_in.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\6cb0247a0fbce0675e74d5cfb52b2d86ac650d4f\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_in.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_out.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_left.xml",
+        "source": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\design_snackbar_in.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\6cb0247a0fbce0675e74d5cfb52b2d86ac650d4f\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_enter.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\design_fab_out.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\6cb0247a0fbce0675e74d5cfb52b2d86ac650d4f\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\6cb0247a0fbce0675e74d5cfb52b2d86ac650d4f\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\anim\\abc_slide_in_top.xml"
+    }
+]

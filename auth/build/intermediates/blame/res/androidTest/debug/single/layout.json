@@ -1,0 +1,354 @@
+[
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\a756aad9890c46825cb9d4c7f998b99b1ba88baf\\output\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\idp_button_google.xml",
+        "source": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\bundles\\debug\\res\\layout\\idp_button_google.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\include_auth_method_picker_logo.xml",
+        "source": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\bundles\\debug\\res\\layout\\include_auth_method_picker_logo.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\idp_button_facebook.xml",
+        "source": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\bundles\\debug\\res\\layout\\idp_button_facebook.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\6cb0247a0fbce0675e74d5cfb52b2d86ac650d4f\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tw__gallery_activity.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\c8c30d9328729f931b96829f01243e30046276e2\\output\\res\\layout\\tw__gallery_activity.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\a756aad9890c46825cb9d4c7f998b99b1ba88baf\\output\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_media.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\forgot_password_layout.xml",
+        "source": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\bundles\\debug\\res\\layout\\forgot_password_layout.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tw__media_badge.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\c8c30d9328729f931b96829f01243e30046276e2\\output\\res\\layout\\tw__media_badge.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\6cb0247a0fbce0675e74d5cfb52b2d86ac650d4f\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\auth_method_picker_layout.xml",
+        "source": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\bundles\\debug\\res\\layout\\auth_method_picker_layout.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_search_view.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_navigation_item.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\6cb0247a0fbce0675e74d5cfb52b2d86ac650d4f\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\check_email_layout.xml",
+        "source": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\bundles\\debug\\res\\layout\\check_email_layout.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\a756aad9890c46825cb9d4c7f998b99b1ba88baf\\output\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\6cb0247a0fbce0675e74d5cfb52b2d86ac650d4f\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tw__app_card.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\8ee49bc3fb63707f80e5a88b4166d9644d284ee6\\output\\res\\layout\\tw__app_card.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\com_facebook_smart_device_dialog_fragment.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\a756aad9890c46825cb9d4c7f998b99b1ba88baf\\output\\res\\layout\\com_facebook_smart_device_dialog_fragment.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\6cb0247a0fbce0675e74d5cfb52b2d86ac650d4f\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\6cb0247a0fbce0675e74d5cfb52b2d86ac650d4f\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tw__activity_composer.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\8ee49bc3fb63707f80e5a88b4166d9644d284ee6\\output\\res\\layout\\tw__activity_composer.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tw__tweet_compact.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\c8c30d9328729f931b96829f01243e30046276e2\\output\\res\\layout\\tw__tweet_compact.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tw__action_bar.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\c8c30d9328729f931b96829f01243e30046276e2\\output\\res\\layout\\tw__action_bar.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tw__tweet.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\c8c30d9328729f931b96829f01243e30046276e2\\output\\res\\layout\\tw__tweet.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\welcome_back_idp_prompt_layout.xml",
+        "source": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\bundles\\debug\\res\\layout\\welcome_back_idp_prompt_layout.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\com_facebook_device_auth_dialog_fragment.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\a756aad9890c46825cb9d4c7f998b99b1ba88baf\\output\\res\\layout\\com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tw__activity_oauth.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\5a366993fd54538d637f38519a23f4e7cde38e90\\output\\res\\layout\\tw__activity_oauth.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_simple.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\idp_button_twitter.xml",
+        "source": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\bundles\\debug\\res\\layout\\idp_button_twitter.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tw__activity_share_email.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\5a366993fd54538d637f38519a23f4e7cde38e90\\output\\res\\layout\\tw__activity_share_email.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\activity_register_email.xml",
+        "source": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\bundles\\debug\\res\\layout\\activity_register_email.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tw__tweet_quote.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\c8c30d9328729f931b96829f01243e30046276e2\\output\\res\\layout\\tw__tweet_quote.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\6cb0247a0fbce0675e74d5cfb52b2d86ac650d4f\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\a756aad9890c46825cb9d4c7f998b99b1ba88baf\\output\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\a756aad9890c46825cb9d4c7f998b99b1ba88baf\\output\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_navigation_menu.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\6cb0247a0fbce0675e74d5cfb52b2d86ac650d4f\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\a756aad9890c46825cb9d4c7f998b99b1ba88baf\\output\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\6cb0247a0fbce0675e74d5cfb52b2d86ac650d4f\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\6cb0247a0fbce0675e74d5cfb52b2d86ac650d4f\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tw__composer_view.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\8ee49bc3fb63707f80e5a88b4166d9644d284ee6\\output\\res\\layout\\tw__composer_view.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\6cb0247a0fbce0675e74d5cfb52b2d86ac650d4f\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tw__video_control.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\c8c30d9328729f931b96829f01243e30046276e2\\output\\res\\layout\\tw__video_control.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\tw__player_activity.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\c8c30d9328729f931b96829f01243e30046276e2\\output\\res\\layout\\tw__player_activity.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_part_time.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\register_email_layout.xml",
+        "source": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\bundles\\debug\\res\\layout\\register_email_layout.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\a756aad9890c46825cb9d4c7f998b99b1ba88baf\\output\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\a756aad9890c46825cb9d4c7f998b99b1ba88baf\\output\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\6cb0247a0fbce0675e74d5cfb52b2d86ac650d4f\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\a756aad9890c46825cb9d4c7f998b99b1ba88baf\\output\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\6cb0247a0fbce0675e74d5cfb52b2d86ac650d4f\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\welcome_back_password_prompt_layout.xml",
+        "source": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\bundles\\debug\\res\\layout\\welcome_back_password_prompt_layout.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\notification_action.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\6cb0247a0fbce0675e74d5cfb52b2d86ac650d4f\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    }
+]
