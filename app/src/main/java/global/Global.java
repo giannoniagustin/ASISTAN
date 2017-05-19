@@ -2,16 +2,14 @@ package global;
 
 import android.app.Application;
 
-import giannno.asistan.R;
-/*
 import org.apache.http.client.HttpClient;
 import org.apache.http.impl.client.DefaultHttpClient;
 
-import transporte.appbase.Archivos.Log;
-import transporte.appbase.Configuracion.ArchivoCache;
-import transporte.appbase.Interfaz.ManejadorInterfaz;
-import transporte.appbase.Util.Iconos;
-*/
+import giannno.asistan.R;
+import interfaz.Iconos;
+import interfaz.ManejadorInterfaz;
+import server.ManejadorServidor;
+
 
 
 /**
@@ -21,24 +19,24 @@ public class Global extends Application {
     public  static String NOMBRE_APP="ASISTAN";
 
     private static Global instance;
-    /*private Iconos iconos = new Iconos();
-    private Notificaciones notificaciones = new Notificaciones();
+    private Iconos iconos = new Iconos();
+    /*private Notificaciones notificaciones = new Notificaciones();
 
-    private Validador validador = new Validador();
+    private Validador validador = new Validador();*/
     private ManejadorServidor manejadorServidor;
     private ManejadorInterfaz manejadorInterfaz;
 
-    private ArchivoCache archivoCache = new ArchivoCache();
+    //private ArchivoCache archivoCache = new ArchivoCache();
 
     private HttpClient c;
-*/
 
-    public Global() {
-    /*    this.manejadorServidor = new ManejadorServidor();
+
+    public Global()
+    {
+        this.manejadorServidor = new ManejadorServidor();
         this.manejadorInterfaz = new ManejadorInterfaz();
-
         this.c = new DefaultHttpClient();
-        manejadorServidor.getServer().setClient(c);*/
+        manejadorServidor.getServer().setClient(c);
 
     }
 
@@ -68,11 +66,11 @@ public class Global extends Application {
         } catch (Exception e)
         {archivos.Log.LOGGER.severe(e.toString());}
 
-        //      mGoogleApiClient = new ApiClient(this);
+
     }
 
 
-   /* public Validador getValidador(){return validador;}
+   // public Validador getValidador(){return validador;}
 
     public ManejadorInterfaz getManejadorInterfaz(){
         return manejadorInterfaz;
@@ -83,6 +81,6 @@ public class Global extends Application {
 
     public HttpClient getClient (){
         return c;
-    }*/
+    }
 
 }

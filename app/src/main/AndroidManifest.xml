@@ -65,6 +65,9 @@
         <activity
             android:name="auth.SignedInActivity"
             android:label="@string/name_auth_ui"/>
+        <activity
+            android:name="activity.MapsActivity"
+            android:label="@string/title_activity_maps"/>
         <service
             android:name="google.ubicacion.ServicioTracker"
             android:enabled="true"

@@ -19,8 +19,10 @@ import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
 
 import archivos.Log;
+import core.Global;
 import giannno.asistan.R;
 import google.ubicacion.CapaServicio;
+import server.commands.PedirColectivosCommad;
 import util.Mensajes;
 
 public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
@@ -29,9 +31,11 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     private CapaServicio capaServicio = new CapaServicio(this);
     private BroadcastReceiver broadcastReceiver;
     private LatLng latLng = null;
+    private Global global;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         try {
+            global = Global.instance();
             capaServicio.iniciarServicio(this);
             suscribirseUbicacion();
             super.onCreate(savedInstanceState);
@@ -60,6 +64,8 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     {
         mMap = googleMap;
         checkPermissionAndroid();
+        global.getManejadorInterfaz().setContexto(this);
+        pedidoColectivos("");
         // Add a marker in Sydney and move the camera
     }
     @Override
@@ -129,4 +135,16 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
             }
         }catch (Exception e){Log.LOGGER.severe(e.toString());}*/
     }
+
+    public void pedidoColectivos(String seleccionado) {
+        try {
+            seleccionado="Linea 503";
+            PedirColectivosCommad pedirColectivos = new PedirColectivosCommad(seleccionado);
+            pedirColectivos.setManejadorInterfaz(global.getManejadorInterfaz());
+            global.getManejadorServidor().agregarElemento(pedirColectivos);
+
+
+        }catch (Exception e){Log.LOGGER.severe(e.toString());}
+    }
+
 }

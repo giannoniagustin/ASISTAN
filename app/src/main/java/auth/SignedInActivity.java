@@ -33,6 +33,7 @@ import com.bumptech.glide.Glide;
 import com.firebase.ui.auth.AuthUI;
 import com.firebase.ui.auth.IdpResponse;
 //import com.firebase.uidemo.R;
+import activity.MapsActivity;
 import giannno.asistan.R;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
@@ -71,18 +72,24 @@ public class SignedInActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
 
         FirebaseUser currentUser = FirebaseAuth.getInstance().getCurrentUser();
-        if (currentUser == null) {
+       if (currentUser == null)
+        {
             startActivity(AuthUiActivity.createIntent(this));
             finish();
             return;
         }
 
-        mIdpResponse = IdpResponse.fromResultIntent(getIntent());
+       mIdpResponse = IdpResponse.fromResultIntent(getIntent());
 
         setContentView(R.layout.signed_in_layout);
         ButterKnife.bind(this);
         populateProfile();
         populateIdpToken();
+
+        /*Agregado Gianno*/
+        Intent intent = new Intent(this, MapsActivity.class);
+        startActivity(intent);
+            /*Fin*/
     }
 
     @OnClick(R.id.sign_out)

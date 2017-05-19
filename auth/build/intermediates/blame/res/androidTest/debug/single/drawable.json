@@ -1,19 +1,19 @@
 [
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\71683994c4822a290881fbc789c75fdc7502ebcf\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\drawable\\abc_btn_colored_material.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\71683994c4822a290881fbc789c75fdc7502ebcf\\output\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\drawable\\abc_dialog_material_background.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\71683994c4822a290881fbc789c75fdc7502ebcf\\output\\res\\drawable\\abc_dialog_material_background.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\d898248343065108c4c5e700d3f90368bb52c501\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\f9a4e3ddeaadba5c6de45c86d33f6d5d6a96e63b\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_login_background.xml",
@@ -33,7 +33,7 @@
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\71683994c4822a290881fbc789c75fdc7502ebcf\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
@@ -41,39 +41,39 @@
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\navigation_empty_icon.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\6cb0247a0fbce0675e74d5cfb52b2d86ac650d4f\\output\\res\\drawable\\navigation_empty_icon.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\91ee265507472f38f0e5382e040cde0876c53167\\output\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_fab_background.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\6cb0247a0fbce0675e74d5cfb52b2d86ac650d4f\\output\\res\\drawable\\design_fab_background.xml"
-    },
-    {
-        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\91ee265507472f38f0e5382e040cde0876c53167\\output\\res\\drawable\\design_fab_background.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\tw__quote_tweet_border.xml",
         "source": "D:\\Android\\android-sdk\\.android\\build-cache\\c8c30d9328729f931b96829f01243e30046276e2\\output\\res\\drawable\\tw__quote_tweet_border.xml"
     },
     {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\71683994c4822a290881fbc789c75fdc7502ebcf\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\71683994c4822a290881fbc789c75fdc7502ebcf\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\71683994c4822a290881fbc789c75fdc7502ebcf\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_bottom_navigation_item_background.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\6cb0247a0fbce0675e74d5cfb52b2d86ac650d4f\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
-    },
-    {
-        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\d898248343065108c4c5e700d3f90368bb52c501\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\91ee265507472f38f0e5382e040cde0876c53167\\output\\res\\drawable\\design_bottom_navigation_item_background.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\tw__seekbar_thumb.xml",
         "source": "D:\\Android\\android-sdk\\.android\\build-cache\\c8c30d9328729f931b96829f01243e30046276e2\\output\\res\\drawable\\tw__seekbar_thumb.xml"
+    },
+    {
+        "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\f9a4e3ddeaadba5c6de45c86d33f6d5d6a96e63b\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\tw__gif_badge.xml",
@@ -93,7 +93,7 @@
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_vector_test.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\drawable\\abc_vector_test.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\71683994c4822a290881fbc789c75fdc7502ebcf\\output\\res\\drawable\\abc_vector_test.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\idp_button_background_twitter.xml",
@@ -101,15 +101,15 @@
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\d898248343065108c4c5e700d3f90368bb52c501\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\f9a4e3ddeaadba5c6de45c86d33f6d5d6a96e63b\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\6cb0247a0fbce0675e74d5cfb52b2d86ac650d4f\\output\\res\\drawable\\design_snackbar_background.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\91ee265507472f38f0e5382e040cde0876c53167\\output\\res\\drawable\\design_snackbar_background.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\71683994c4822a290881fbc789c75fdc7502ebcf\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_background.xml",
@@ -129,19 +129,19 @@
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\71683994c4822a290881fbc789c75fdc7502ebcf\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\71683994c4822a290881fbc789c75fdc7502ebcf\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\71683994c4822a290881fbc789c75fdc7502ebcf\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\d898248343065108c4c5e700d3f90368bb52c501\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\f9a4e3ddeaadba5c6de45c86d33f6d5d6a96e63b\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\tw__player_overlay.xml",
@@ -153,51 +153,51 @@
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\drawable\\abc_ic_clear_material.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\71683994c4822a290881fbc789c75fdc7502ebcf\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\71683994c4822a290881fbc789c75fdc7502ebcf\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\71683994c4822a290881fbc789c75fdc7502ebcf\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\71683994c4822a290881fbc789c75fdc7502ebcf\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\d898248343065108c4c5e700d3f90368bb52c501\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\f9a4e3ddeaadba5c6de45c86d33f6d5d6a96e63b\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\d898248343065108c4c5e700d3f90368bb52c501\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\f9a4e3ddeaadba5c6de45c86d33f6d5d6a96e63b\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_text_light.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\d898248343065108c4c5e700d3f90368bb52c501\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\f9a4e3ddeaadba5c6de45c86d33f6d5d6a96e63b\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\d898248343065108c4c5e700d3f90368bb52c501\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\f9a4e3ddeaadba5c6de45c86d33f6d5d6a96e63b\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_edit_text_material.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\drawable\\abc_edit_text_material.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\71683994c4822a290881fbc789c75fdc7502ebcf\\output\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\71683994c4822a290881fbc789c75fdc7502ebcf\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\d898248343065108c4c5e700d3f90368bb52c501\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\f9a4e3ddeaadba5c6de45c86d33f6d5d6a96e63b\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\design_password_eye.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\6cb0247a0fbce0675e74d5cfb52b2d86ac650d4f\\output\\res\\drawable\\design_password_eye.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\91ee265507472f38f0e5382e040cde0876c53167\\output\\res\\drawable\\design_password_eye.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\tw__login_btn.xml",
@@ -213,7 +213,7 @@
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\d898248343065108c4c5e700d3f90368bb52c501\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\f9a4e3ddeaadba5c6de45c86d33f6d5d6a96e63b\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\tw__bg_media_badge.xml",
@@ -225,7 +225,7 @@
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\71683994c4822a290881fbc789c75fdc7502ebcf\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_button_icon.xml",
@@ -233,7 +233,7 @@
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_bg_low.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\drawable\\notification_bg_low.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\71683994c4822a290881fbc789c75fdc7502ebcf\\output\\res\\drawable\\notification_bg_low.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\messenger_button_white_bg_selector.xml",
@@ -245,7 +245,7 @@
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\71683994c4822a290881fbc789c75fdc7502ebcf\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\tw__video_play_btn.xml",
@@ -253,11 +253,11 @@
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\71683994c4822a290881fbc789c75fdc7502ebcf\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\drawable\\notification_tile_bg.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\71683994c4822a290881fbc789c75fdc7502ebcf\\output\\res\\drawable\\notification_tile_bg.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\tw__transparent.xml",
@@ -265,15 +265,15 @@
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\71683994c4822a290881fbc789c75fdc7502ebcf\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\71683994c4822a290881fbc789c75fdc7502ebcf\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\drawable\\abc_ratingbar_material.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\71683994c4822a290881fbc789c75fdc7502ebcf\\output\\res\\drawable\\abc_ratingbar_material.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\messenger_button_blue_bg_round.xml",
@@ -289,7 +289,7 @@
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\drawable\\abc_textfield_search_material.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\71683994c4822a290881fbc789c75fdc7502ebcf\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\idp_button_background_google.xml",
@@ -297,15 +297,15 @@
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\d898248343065108c4c5e700d3f90368bb52c501\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\f9a4e3ddeaadba5c6de45c86d33f6d5d6a96e63b\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\drawable\\abc_btn_radio_material.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\71683994c4822a290881fbc789c75fdc7502ebcf\\output\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\71683994c4822a290881fbc789c75fdc7502ebcf\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\tw__video_pause_btn.xml",
@@ -321,19 +321,19 @@
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\d898248343065108c4c5e700d3f90368bb52c501\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\f9a4e3ddeaadba5c6de45c86d33f6d5d6a96e63b\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\71683994c4822a290881fbc789c75fdc7502ebcf\\output\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_bg.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\drawable\\notification_bg.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\71683994c4822a290881fbc789c75fdc7502ebcf\\output\\res\\drawable\\notification_bg.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\d898248343065108c4c5e700d3f90368bb52c501\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\f9a4e3ddeaadba5c6de45c86d33f6d5d6a96e63b\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\idp_button_background_facebook.xml",
@@ -341,7 +341,7 @@
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\71683994c4822a290881fbc789c75fdc7502ebcf\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\tw__call_to_action.xml",
@@ -349,11 +349,11 @@
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\71683994c4822a290881fbc789c75fdc7502ebcf\\output\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_icon_background.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\drawable\\notification_icon_background.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\71683994c4822a290881fbc789c75fdc7502ebcf\\output\\res\\drawable\\notification_icon_background.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
@@ -361,7 +361,7 @@
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\d898248343065108c4c5e700d3f90368bb52c501\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\f9a4e3ddeaadba5c6de45c86d33f6d5d6a96e63b\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\tw__btn_composer_tweet.xml",
@@ -377,7 +377,7 @@
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\drawable\\abc_text_cursor_material.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\71683994c4822a290881fbc789c75fdc7502ebcf\\output\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\tw__video_seekbar.xml",
@@ -385,7 +385,7 @@
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\drawable\\abc_btn_check_material.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\71683994c4822a290881fbc789c75fdc7502ebcf\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\com_facebook_favicon_blue.xml",
@@ -397,11 +397,11 @@
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\71683994c4822a290881fbc789c75fdc7502ebcf\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\1c6867ea375f8f256ea4c5fa76402478bbe076fb\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+        "source": "D:\\Android\\android-sdk\\.android\\build-cache\\71683994c4822a290881fbc789c75fdc7502ebcf\\output\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
         "merged": "D:\\Proyectos Android\\ASISTAN\\auth\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\tw__vine_badge.xml",
